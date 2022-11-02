@@ -8,6 +8,7 @@ html {
     font-size: 62.5%;
 }
 body {
+    min-height: 100vh;
     background-color: hsl(0, 0%, 98%);
     display: grid;
     place-content: center;
@@ -56,6 +57,7 @@ h1, h2{
     color: hsl(229, 6%, 66%);
 }
 .card {
+    background-color: #ffffff;
     padding:  2rem;
     border-left: 2px solid #FAFAFA;
     border-right: 2px solid #FAFAFA;
