@@ -23,7 +23,7 @@ The Challenge was to make a replica of the design provided in the design folder.
 ![](./screenshots/Screenshot-%20FCFS_mobile.png)
 
 ### Links
-- Live Site URL: [Add live site URL here](https://modade97.github.io/four-card-feature-section)
+- Live Site URL: [Live site URL](https://modade97.github.io/four-card-feature-section)
 
 ## My process
 The process of this build started with applying the proper HTML semantic markup, necessary div containers to style the elements.
